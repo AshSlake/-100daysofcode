@@ -4,7 +4,7 @@
 
 Bem-vindo(a) ao repositório do meu desafio #100DaysOfCode! Estou embarcando nesta jornada para aprimorar minhas habilidades em Java, construir projetos interessantes e solidificar meu conhecimento na linguagem e seu ecossistema.
 
-**Data de Início:** 22 de Maio de 2025
+**Data de Início:** 21 de Maio de 2025
 **Foco Principal:** Java
 
 ## Sobre o Desafio
@@ -39,12 +39,12 @@ Pretendo organizar meus projetos e estudos da seguinte forma:
 
 ## Log Diário
 
-| Dia | Data       | Atividades Realizadas / Tópicos Estudados                                  | Link(s) / Anotações Adicionais                    |
-|-----|------------|----------------------------------------------------------------------------|---------------------------------------------------|
-| 001 | 22/05/2025 | Classes e metodos em Java | 
-| 002 | 23/05/2025 | Construtores                                         |  
-| ... | ...        | ...                                                                        | ...                                               |
-
+| Dia | Data       | Atividades Realizadas / Tópicos Estudados                      | Link(s) / Anotações Adicionais                    |
+|-----|------------|----------------------------------------------------------------|---------------------------------------------------|
+| 001 | 21/05/2025 | Classes e metodos em Java                                      | ...                                                |
+| 002 | 22/05/2025 | Construtores                                                   |  ...                                              |
+| 003 | 23/05/2025 | This. & modificadores                                          | ...                                               |
+| 004 | 24/05/2025 | Setodos GET e SETTER.<br/>Sobrecarga de metodos e contrutores. | ...                                               |
 
 ## Recursos Úteis
 
