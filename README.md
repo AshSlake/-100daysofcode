@@ -23,7 +23,7 @@ O #100DaysOfCode é um compromisso de programar por pelo menos uma hora todos os
 ## Tecnologias e Ferramentas
 
 * **Linguagem Principal:** Java
-* **IDE:** [Eclipse, VS Code com Java Extension Pack]
+* **IDE:** [Eclipse, VS Code com Java Extension Pack, IntelliJ IDEA]
 * **Controle de Versão:** Git e GitHub
 * **Build Tools (quando aplicável):** Maven, Gradle
 
@@ -33,18 +33,18 @@ Pretendo organizar meus projetos e estudos da seguinte forma:
 
 * **/Day[XXX]:** Pasta contendo o código, anotações ou link para o projeto desenvolvido no respectivo dia.
 * **/projetos:** Para projetos maiores que podem levar vários dias.
-* **/anotacoes:** Anotações gerais, resumos de conceitos, etc.
 
 *(Esta estrutura é uma ideia mais pode sofrer alterações no futuro)*
 
 ## Log Diário
 
-| Dia | Data       | Atividades Realizadas / Tópicos Estudados                      | Link(s) / Anotações Adicionais                    |
-|-----|------------|----------------------------------------------------------------|---------------------------------------------------|
-| 001 | 21/05/2025 | Classes e metodos em Java                                      | ...                                                |
-| 002 | 22/05/2025 | Construtores                                                   |  ...                                              |
-| 003 | 23/05/2025 | This. & modificadores                                          | ...                                               |
-| 004 | 24/05/2025 | Setodos GET e SETTER.<br/>Sobrecarga de metodos e contrutores. | ...                                               |
+| Dia | Data       | Atividades Realizadas / Tópicos Estudados                      | Link(s) / Anotações Adicionais                   |
+|-----|------------|----------------------------------------------------------------|--------------------------------------------------|
+| 001 | 21/05/2025 | Classes e metodos em Java                                      | ...                                              |
+| 002 | 22/05/2025 | Construtores                                                   | ...                                              |
+| 003 | 23/05/2025 | This. & modificadores                                          | ...                                              |
+| 004 | 24/05/2025 | Setodos GET e SETTER.<br/>Sobrecarga de metodos e contrutores. | ...                                              |
+| 005 | 25/05/2025 | Exercicios dos conteudos vistos anteriormente.                 | utilizando this./getter e setters / construtores |
 
 ## Recursos Úteis
 

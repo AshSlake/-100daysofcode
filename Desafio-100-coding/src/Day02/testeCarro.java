@@ -1,4 +1,4 @@
-package dia_2;
+package Day02;
 
 public class testeCarro {
 

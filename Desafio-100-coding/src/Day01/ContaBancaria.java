@@ -1,4 +1,4 @@
-package dia_1;
+package Day01;
 
 public class ContaBancaria {
 

@@ -1,4 +1,4 @@
-package dia_3;
+package Day03;
 
 /*
  * Dia 3 do #100daysofcode

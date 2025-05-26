@@ -1,4 +1,4 @@
-package dia_2;
+package Day02;
 
 /*
  * Dia 2 do #100daysofcode, hoje vimos sobre construtores e a forma de definilos tornando o codigo mais limpo, organizado e modular.
