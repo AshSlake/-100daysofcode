@@ -46,6 +46,7 @@ Pretendo organizar meus projetos e estudos da seguinte forma:
 | 004 | 24/05/2025 | Setodos GET e SETTER.<br/>Sobrecarga de metodos e contrutores. | ...                                              |
 | 005 | 25/05/2025 | Exercicios dos conteudos vistos anteriormente.                 | utilizando this./getter e setters / construtores |
 | 006 | 26/05/2025 | continuação dos exercicios.                                    | utilizando this./getter e setters / construtores |
+| 007 | 27/05/2025 | Recursividade e seus metodos.                                  | realizado desafios junto.                        |
 
 ## Recursos Úteis
 
