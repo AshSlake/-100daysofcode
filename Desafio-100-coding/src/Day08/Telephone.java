@@ -6,6 +6,8 @@ public class Telephone {
     private String ddd;
     private String number;
 
+    public Telephone() {}
+
     public Telephone(String type, String ddd, String number) {
         this.type = type;
         this.ddd = ddd;
@@ -16,23 +18,11 @@ public class Telephone {
         return type;
     }
 
-    public void setType(String type) {
-        this.type = type;
-    }
-
     public String getDdd() {
         return ddd;
     }
 
-    public void setDdd(String ddd) {
-        this.ddd = ddd;
-    }
-
     public String getNumber() {
         return number;
-    }
-
-    public void setNumber(String number) {
-        this.number = number;
     }
 }
