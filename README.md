@@ -48,6 +48,7 @@ Pretendo organizar meus projetos e estudos da seguinte forma:
 | 006 | 26/05/2025 | continuação dos exercicios.                                    | utilizando this./getter e setters / construtores |
 | 007 | 27/05/2025 | Recursividade e seus metodos.                                  | realizando desafios do dia anterior              |
 | 008 | 28/05/2025 | Relacionamentos entre Classes.                                 | ...                                              |
+| 009 | 29/05/2025 | exrcicios sobre Relacionamentos entre Classes.                 | ...                                              |
 
 ## Recursos Úteis
 
