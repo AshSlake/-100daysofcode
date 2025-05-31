@@ -1,13 +1,16 @@
-package Day10;
+package Day11;
 
-public class Student extends Person{
+public class Student extends Person {
 
     private String[] courses;
     private String[][] notes;
 
-    public Student() {}
+    public Student() {
+        super();
+    }
 
-    public Student(String[] courses, String[][] notes) {
+    public Student(String name, int age, String gender, String email, String phone, String address, String[] courses, String[][] notes) {
+        super(name, age, gender, email, phone, address);
         this.courses = courses;
         this.notes = notes;
     }
@@ -34,5 +37,9 @@ public class Student extends Person{
 
     public double checkApproved(double[][] notes) {
         return 0;
+    }
+
+    public String getAddressTag(){
+        return String.format("the student´s address is: %s",super.getAddress());
     }
 }
