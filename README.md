@@ -38,19 +38,20 @@ Pretendo organizar meus projetos e estudos da seguinte forma:
 
 ## Log Diário
 
-| Dia | Data       | Atividades Realizadas / Tópicos Estudados                      | Link(s) / Anotações Adicionais              |
-|-----|------------|----------------------------------------------------------------|---------------------------------------------|
-| 001 | 21/05/2025 | Classes e metodos em Java                                      | ...                                         |
-| 002 | 22/05/2025 | Construtores                                                   | ...                                         |
-| 003 | 23/05/2025 | This. & modificadores                                          | ...                                         |
-| 004 | 24/05/2025 | Setodos GET e SETTER.<br/>Sobrecarga de metodos e contrutores. | ...                                         |
+| Dia | Data       | Atividades Realizadas / Tópicos Estudados                      | Link(s) / Anotações Adicionais                   |
+|-----|------------|----------------------------------------------------------------|--------------------------------------------------|
+| 001 | 21/05/2025 | Classes e metodos em Java                                      | ...                                              |
+| 002 | 22/05/2025 | Construtores                                                   | ...                                              |
+| 003 | 23/05/2025 | This. & modificadores                                          | ...                                              |
+| 004 | 24/05/2025 | Setodos GET e SETTER.<br/>Sobrecarga de metodos e contrutores. | ...                                              |
 | 005 | 25/05/2025 | Exercicios dos conteudos vistos anteriormente.                 | utilizando this./getter e setters / construtores |
 | 006 | 26/05/2025 | continuação dos exercicios.                                    | utilizando this./getter e setters / construtores |
-| 007 | 27/05/2025 | Recursividade e seus metodos.                                  | realizando desafios do dia anterior         |
-| 008 | 28/05/2025 | Relacionamentos entre Classes.                                 | ...                                         |
-| 009 | 29/05/2025 | exercicios sobre Relacionamentos entre Classes.                | ...                                         |
-| 010 | 30/05/2025 | Herança.                                                       | ...                                         |
-| 011 | 31/05/2025 | super(),modificadores de acesso + protected,Polimorfismo.      |https://youtu.be/pMPlngyWHLM                 |                           
+| 007 | 27/05/2025 | Recursividade e seus metodos.                                  | realizando desafios do dia anterior              |
+| 008 | 28/05/2025 | Relacionamentos entre Classes.                                 | ...                                              |
+| 009 | 29/05/2025 | exercicios sobre Relacionamentos entre Classes.                | ...                                              |
+| 010 | 30/05/2025 | Herança.                                                       | ...                                              |
+| 011 | 31/05/2025 | super(),modificadores de acesso + protected,Polimorfismo.      | https://youtu.be/pMPlngyWHLM                     |                           
+| 012 | 01/06/2025 | Classes abstratas(abstract)                                    | https://www.youtube.com/watch?v=Oibb-17nD14      |                           
 
 
 ## Recursos Úteis
@@ -59,7 +60,7 @@ Lista de recursos que estou utilizando ou pretendo utilizar:
 
 * [Documentação Oficial do Java](https://docs.oracle.com/en/java/)
 * [Baeldung](https://www.baeldung.com/) (Ótimos tutoriais de Java e Spring)
-* [Loiane Groner]
+* [Loiane Groner] (https://loiane.training/) (Curso Java Gratuito)
 * Livro: "[Codigo limpo]"
 
 ## Como Acompanhar
